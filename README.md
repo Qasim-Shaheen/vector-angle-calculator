@@ -3,7 +3,8 @@ A simple Python tool to calculate the angle between 2D and 3D vectors using NumP
 ## Features
 - Uses **NumPy** for high_precision math.
 - works with both 2D and 3D vectors.
-- Here is an
+  
+Below is an example execution of the program:  
 Enter x-component for Vector A: 1  
 Enter y-component for Vector A: 0  
 Enter z-component for Vector A: 0  
